@@ -1,0 +1,34 @@
+body {
+	background: #7d70b3;
+}
+
+li {
+	display: inline;
+}
+
+#logo {
+	float: left;
+	height: 100px;
+	width: 100px;
+	margin-top: 10px;
+}
+
+#heading {
+	display: block;
+	margin: auto;
+	width: 300px;
+	padding: 10px;
+}
+
+#navbar {
+	background: #fff;
+	text-align: 70px 0;
+}
+
+#navbar-links {
+	list-style-type: none;
+    margin: auto;
+    padding: 0;
+    text-align: right;
+}
+
