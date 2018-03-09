@@ -8,18 +8,18 @@ li a {
 }
 
 #logo {
-	float: left;
+	/*float: left;*/
 	height: 100px;
 	width: 100px;
-	margin-top: 10px;
+	/*margin-top: 10px;*/
 }
 
-#heading {
+/*#heading {
 	display: block;
 	margin: auto;
 	width: 300px;
 	padding: 10px;
-}
+}*/
 
 #navbar {
 	background: #fff;
@@ -35,8 +35,8 @@ li a {
 
 #header {
 	background-image: url("C:/Users/David/Documents/Projects/artlifeimages_website/assets/images/photography_banner_homepage.jpg");
-	height: 519px;
-	width: 1111px;
+/*	height: 519px;
+	width: 1111px;*/
 }
 
 
